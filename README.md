@@ -6,7 +6,7 @@ Brainfxxkのための備忘録と作ったプログラム
 ## 参考URL
 - https://qiita.com/koi_kotya/items/c730c0be5c898092ac79
 
-## 文字
+## 命令
 全8種類
 - ,
 - .
